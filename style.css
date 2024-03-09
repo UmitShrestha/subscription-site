@@ -1,0 +1,235 @@
+body, html {
+  overflow-x: hidden;
+}
+
+.main{
+  width:1400px;
+  height:1000px;
+position:relative;
+right:40px;
+}
+.head{
+  padding:20px;
+  position:relative;
+  top:-50px;
+  right:-40px
+}
+#head-logo{
+  font-family:monospace;
+  font-size:30px;
+  color:#00b289;
+  position:relative;
+  top:17px;
+}
+.head-button-container{
+  position:relative;
+  top:-57px;
+  right:-370px;
+}
+.head-button{
+  border:none;
+  background-color:white;
+  font-family:monospace;
+  font-size:20px;
+  color:#4c4d5f;
+}
+#templates-button{
+  position:relative;
+  right:-30px;
+}
+
+#pricing-button{
+  position:relative;
+  right:-60px;
+}
+
+#reviews-button{
+  position:relative;
+  right:-90px;
+}
+
+#log-in-button{
+  position:relative;
+  right:-160px;
+}
+
+#log-in-button{
+  position:relative;
+  right:-190px;
+  background-color:white;
+  padding:15px;
+  color:#00b289;
+  border:solid 1px;
+  border-color:#00b289;
+  border-radius:6px;
+}
+#log-in-button:hover{
+    color:white;
+    background-color:#00b289;
+    text-decoration:underline;
+    cursor:pointer;
+}
+
+#start-free-button{
+  position:relative;
+  right:-210px;
+  background-color:#00b289;
+  padding:15px;
+  border:solid 1px;
+  border-color:#00b289;
+  color:white;
+  border-radius:7px;
+}
+#start-free-button:hover{
+    color:#00b289;
+    background-color:white;
+    text-decoration:underline;
+    cursor:pointer;
+}
+
+.head-button:hover{
+  color:black;
+  cursor:pointer;
+}
+
+#main-body-heading{
+  color:#4c4d5f;
+  font-family:monospace;
+  position:relative;
+  right:-200px
+}
+
+.main-body-paragraph{
+color:#4c4d5f;
+font-family:monospace;
+font-size:20px;
+position:relative;
+top:-50px;
+right:-900px;
+}
+
+#p-2{
+  position:relative;
+  top:-94px;
+  right:-1100px;
+}
+
+#toggle{
+  border:solid 1px;
+  color:white;
+  border-radius:14px;
+  border-color:#00b289;
+  background-color:#00b289;
+  position:relative;
+  right:-990px;
+  top:-140px;
+  font-size:20px;
+  width:100px;
+  
+}
+
+#toggle:hover{
+  color:#00b289;
+  background-color:white;
+  cursor:pointer;
+}
+
+.monthly-work-flow-screen{
+border:solid 2px;
+border-color:#4c4d5f;
+border-radius:5px;
+border-sizing:border-box;
+width:425px;
+  height:650px;
+position:relative;
+right:-200px;
+  top:-100px;
+}
+
+#monthly-plus{
+border:solid 2px;
+border-color:#4c4d5f;
+border-radius:5px;
+border-sizing:border-box;
+width:425px;
+  height:650px;
+position:relative;
+right:-745px;
+  top:-755px;
+}
+
+.monthly-work-flow-content{
+  position:relative;
+  right:-50px;
+  top:20px;
+  color:#4c4d5f;
+  font-family:monospace;
+  
+}
+#price-regular{
+  font-size:50px
+}
+#price-plus{
+  font-size:50px
+}
+.time{
+  position:relative;
+  right:-160px;
+  top:-50px
+}
+
+.hr-line{
+  position:relative;
+  right:-50px;
+  top:-90px;
+  color:#00b289;
+  font-size:40px;
+}
+
+.monthly-work-flow-list{
+  font-family:monospace;
+}
+
+
+li{
+  color:#00b289;
+}
+span{
+  color:#4c4d5f;
+  font-family:monospace;
+  font-size:17px
+}
+.list{
+  position:relative;
+  right:-40px;
+  top:-100px
+}
+.start-free-button{
+  position:relative;
+  top:-100px;
+  right:-50px;
+  border:solid 1px;
+  border-color:#00b289;
+  background-color:#00b289;
+  color:white;
+  font-family:monospace;
+  font-size:22px;
+  width:300px;
+  height:80px;
+  border-radius:7px;
+}
+.start-free-button:hover{
+    background-color:white;
+     color:#00b289;
+    text-decoration:underline;
+  cursor:pointer;
+}
+.new{
+  border:solid 1px;
+  border-color:yellow;
+  padding:2px;
+  background:yellow;
+  color:blue;
+  position:relative;
+  right:-10px;
+}
